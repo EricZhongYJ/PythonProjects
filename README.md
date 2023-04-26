@@ -8,4 +8,4 @@ This is a repository of python projects. It is used to update some python progra
 
 ##### Version: 0.4
 
-Download [HERE]('https://github.com/EricZhongYJ/PythonProjects')
+Download [HERE](https://github.com/EricZhongYJ/PythonProjects)
