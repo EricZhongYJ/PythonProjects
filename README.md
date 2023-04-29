@@ -6,6 +6,6 @@ This is a repository of python projects. It is used to update some python progra
 
 ## ChatGPT 3.5 VS Claude 
 
-##### Version: 0.4
+##### Version: 1.0
 
 Download [HERE](https://raw.githubusercontent.com/EricZhongYJ/PythonProjects/main/ChatGpt/ChatGpt.exe)
