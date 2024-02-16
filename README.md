@@ -6,7 +6,7 @@ This is a repository of python projects. It is used to update some python progra
 
 ## ChatGPT 3.5 VS Claude 
 
-##### Version: 1.23
+##### Version: 2.0
 
 仅支持Win10系统及以上
 
